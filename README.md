@@ -14,5 +14,5 @@ O projeto utiliza o Cisco Packet Tracer.
 
 ## Principais funcionalidades:
 Simular um ambiente onde um switch seria utilizado para a rede local. \
-!![alt text](https://github.com/LuanGalatti/Projeto-packet-tracer-switch/blob/main/image.png)
+!![alt text](image.png)
 
